@@ -11,4 +11,5 @@ wp-content/plugins/*
 #!wp-content/plugins/my-directory-plugin/
  
 wp-content/themes/*
-!wp-content/themes/barza/
+!wp-content/themes/the-newsmag
+!wp-content/themes/barza

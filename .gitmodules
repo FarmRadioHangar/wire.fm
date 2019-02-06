@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/the-newsmag"]
+	path = wp-content/themes/the-newsmag
+	url = git@github.com:mebishalnapit/the-newsmag.git
