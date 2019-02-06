@@ -1,3 +1,3 @@
-[submodule "wp-content/themes/the-newsmag"]
-	path = wp-content/themes/the-newsmag
-	url = git@github.com:mebishalnapit/the-newsmag.git
+[submodule "wp-content/themes/newsmag-lite"]
+	path = wp-content/themes/newsmag-lite
+	url = git@github.com:MachoThemes/newsmag-lite.git
